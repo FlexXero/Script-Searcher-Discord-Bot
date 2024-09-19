@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/aWp6srpg25"><img src="https://img.shields.io/badge/Join-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/getindigo"><img src="https://img.shields.io/badge/Join-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 </p> 
 
 ---
@@ -27,30 +27,13 @@ This Discord bot allows users to search for scripts using the `!search` command 
 - `!bothelp`: Display help information about using the bot.
 - `/bothelp`: Display help information using the slash command.
 
-## Installation
-
-1. **Clone the Repository**: `git clone https://github.com/AdvanceFTeam/Script_Searcher_Discord_Bot.git`
-2. **Install Dependencies**: `pip install -r requirements.txt`
-3. **Configure Environment**: Create a `.env` file with your Discord bot token (`BOT_TOKEN=your_token_here`).
-4. **Run the Bot**: `python main.py`
-
-## Requirements
-
-- Python 3.7+
-- discord.py
-- requests
-- validators
-- dotenv
-
-## Replit
-
-For an easy deployment, use Replit:
-
-[![Run on Replit](https://replit.com/badge/github/AdvanceFTeam/Script_Searcher_Discord_Bot)](https://replit.com/@YellowGreg/ss-V12?v=1)
-
 ## Contributing
 
 Please feel free to open a issues or submit pull requests to improve the discord bot.
+
+## Read Me
+
+This Is Me Rewriting This Code In Ruby Instead Of Python, You Must Credit Me And The Original Creator Of This.
 
 ## License
 
@@ -62,6 +45,6 @@ This project is licensed under the MIT License - meaning you can feel free to cu
 If you need further assistance, join our Discord community.
 
 <p align="center">
-  <a href="https://discord.gg/aWp6srpg25"><img src="https://img.shields.io/badge/Join-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/getindigo"><img src="https://img.shields.io/badge/Join-Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 </p> 
 
