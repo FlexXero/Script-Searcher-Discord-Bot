@@ -1,7 +1,0 @@
-discord.py
-requests
-python-dotenv
-validators
-python-dateutil
-python-Levenshtein
-pytz
